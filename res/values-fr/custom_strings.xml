@@ -154,7 +154,6 @@
   <string name="vibrate_notification_summary">Activer la vibration pour les notifications d’alarme et de minuterie actives</string>
   <string name="vibrate_notification_title">Vibrer lors d\'une notification</string>
   <string name="all_cities_label">Ajouter</string>
-  <string name="entry_never">Jamais</string>
   <string name="default_page_title">Onglet d’accueil par défaut</string>
   <string name="global_settings">Général</string>
   <string name="local_query_playlist">Listes de lecture</string>

@@ -135,6 +135,7 @@
   <string name="randomMusicType">Zufällige Musik</string>
   <string name="browse_activity_title">Durchsuchen</string>
   <string name="local_query_alarm_ringtones">Alarme und Klingeltöne</string>
+  <string name="local_query_alarm">Alarme</string>
   <string name="local_query_recent">Letzte</string>
   <string name="local_query_hint">Suche</string>
   <string name="local_query_artist">Interpreten</string>
@@ -154,7 +155,6 @@
   <string name="vibrate_notification_summary">Vibration für aktive Alarm und Timer-Benachrichtigungen aktivieren</string>
   <string name="vibrate_notification_title">Benachrichtigungsvibration</string>
   <string name="all_cities_label">Hinzufügen</string>
-  <string name="entry_never">Niemals</string>
   <string name="default_page_title">Standard-Startseite</string>
   <string name="global_settings">Global</string>
   <string name="local_query_playlist">Wiedergabelisten</string>
@@ -164,4 +164,6 @@
   <string name="offline_notif_title">Gerät offline</string>
   <string name="offline_notif_message">Bitte ändern Sie Ihre Systemeinstellungen</string>
   <string name="color_theme_black">Schwarz</string>
+  <string name="snooze_on_silence_title">Automatischer snooze</string>
+  <string name="snooze_on_silence_summary">Snooze anstelle von abschalten nach stillem Timeout</string>
 </resources>

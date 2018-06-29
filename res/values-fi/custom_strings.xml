@@ -59,6 +59,5 @@
   <string name="shortcut_start_timer">Ajastin</string>
   <string name="shortcut_stopwatch">Sekuntikello</string>
   <string name="all_cities_label">Lisää</string>
-  <string name="entry_never">Ei koskaan</string>
   <string name="playlist_file_name">Nimi</string>
 </resources>
