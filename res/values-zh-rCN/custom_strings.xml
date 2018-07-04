@@ -135,6 +135,7 @@
   <string name="randomMusicType">随机播放音乐</string>
   <string name="browse_activity_title">浏览</string>
   <string name="local_query_alarm_ringtones">闹钟铃声</string>
+  <string name="local_query_alarm">闹钟</string>
   <string name="local_query_recent">最近播放</string>
   <string name="local_query_hint">搜索</string>
   <string name="local_query_artist">艺术家</string>

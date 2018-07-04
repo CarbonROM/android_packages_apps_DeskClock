@@ -136,6 +136,7 @@
   <string name="randomMusicType">Случайная музыка</string>
   <string name="browse_activity_title">Обзор</string>
   <string name="local_query_alarm_ringtones">Будильники и рингтоны</string>
+  <string name="local_query_alarm">Будильники</string>
   <string name="local_query_recent">Недавние</string>
   <string name="local_query_hint">Поиск</string>
   <string name="local_query_artist">Исполнители</string>

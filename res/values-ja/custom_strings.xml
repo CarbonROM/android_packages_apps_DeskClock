@@ -114,7 +114,7 @@
   <string name="clock_color_title">色</string>
   <string name="clock_shadow_title">影</string>
   <string name="world_clocks_title">世界時計を表示</string>
-  <string name="alarm_action_wireless_header_title">注意：ワイヤレス充電を使用している間はあフリップおよびシェイクアクションは無効になります</string>
+  <string name="alarm_action_wireless_header_title">注意：ワイヤレス充電を使用している間はフリップおよびシェイクアクションは無効になります</string>
   <string name="audio_stream_title">ローカルアラーム音声の音声ストリーム</string>
   <string name="audio_stream_music">音楽ストリーム</string>
   <string name="audio_stream_alam">アラームストリーム</string>
