@@ -32,5 +32,6 @@
     <color name="pager_tab_ripple_color">@color/default_background</color>
     <color name="pager_tab_active_text_color">@color/app_accent</color>
     <color name="pager_tab_overflow_color">#ffbdc1c6</color>
+    <color name="google_grey900">#ff202124</color>
 
 </resources>
